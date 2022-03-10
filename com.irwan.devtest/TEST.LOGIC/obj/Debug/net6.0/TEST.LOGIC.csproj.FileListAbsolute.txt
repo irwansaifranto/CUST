@@ -1,0 +1,15 @@
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\bin\Debug\net6.0\TEST.LOGIC.exe
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\bin\Debug\net6.0\TEST.LOGIC.deps.json
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\bin\Debug\net6.0\TEST.LOGIC.runtimeconfig.json
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\bin\Debug\net6.0\TEST.LOGIC.dll
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\bin\Debug\net6.0\ref\TEST.LOGIC.dll
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\bin\Debug\net6.0\TEST.LOGIC.pdb
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\obj\Debug\net6.0\TEST.LOGIC.csproj.AssemblyReference.cache
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\obj\Debug\net6.0\TEST.LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\obj\Debug\net6.0\TEST.LOGIC.AssemblyInfoInputs.cache
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\obj\Debug\net6.0\TEST.LOGIC.AssemblyInfo.cs
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\obj\Debug\net6.0\TEST.LOGIC.csproj.CoreCompileInputs.cache
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\obj\Debug\net6.0\TEST.LOGIC.dll
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\obj\Debug\net6.0\ref\TEST.LOGIC.dll
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\obj\Debug\net6.0\TEST.LOGIC.pdb
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\TEST.LOGIC\obj\Debug\net6.0\TEST.LOGIC.genruntimeconfig.cache

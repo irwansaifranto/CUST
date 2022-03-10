@@ -1,0 +1,14 @@
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\bin\Debug\net6.0\CUST.Model.deps.json
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\bin\Debug\net6.0\CUST.Model.runtimeconfig.json
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\bin\Debug\net6.0\CUST.Model.dll
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\bin\Debug\net6.0\ref\CUST.Model.dll
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\bin\Debug\net6.0\CUST.Model.pdb
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\obj\Debug\net6.0\CUST.Model.csproj.AssemblyReference.cache
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\obj\Debug\net6.0\CUST.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\obj\Debug\net6.0\CUST.Model.AssemblyInfoInputs.cache
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\obj\Debug\net6.0\CUST.Model.AssemblyInfo.cs
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\obj\Debug\net6.0\CUST.Model.csproj.CoreCompileInputs.cache
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\obj\Debug\net6.0\CUST.Model.dll
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\obj\Debug\net6.0\ref\CUST.Model.dll
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\obj\Debug\net6.0\CUST.Model.pdb
+D:\IRWAN SAIFRANTO R\INTERNAL\GITHUB\CUST\CUST\com.irwan.devtest\CUST.Model\obj\Debug\net6.0\CUST.Model.genruntimeconfig.cache

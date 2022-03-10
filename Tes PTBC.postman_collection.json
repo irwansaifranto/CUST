@@ -1,0 +1,211 @@
+{
+	"info": {
+		"_postman_id": "e7580411-c4cd-4039-9a92-20a154d707e9",
+		"name": "Tes PTBC",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"irwan.admin\",\r\n  \"password\": \"Irwan*#1234\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7032/api/Authenticate/login",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7032",
+					"path": [
+						"api",
+						"Authenticate",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Register",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"irwan.admin\",\r\n  \"email\": \"irwansaifranto@yahoo.com\",\r\n  \"password\": \"Irwan*#1234\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7032/api/Authenticate/register",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7032",
+					"path": [
+						"api",
+						"Authenticate",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Customer",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiaXJ3YW4ucmFobWF0IiwianRpIjoiNGE2YjRmNDQtMzY1ZS00ZmM4LWFjZjAtNGIzN2JmM2ZiYTI3IiwiZXhwIjoxNjQ2ODM4NTY5LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjUwMDAiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OjcwMzIifQ.Om5OCi_l0zZAVHUb71jvYlAueyzV70LhVNet_2r40CI",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"irwan.rahmat\",\r\n  \"phone\": \"081398137267\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7032/api/Customer/CreateCustomer",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7032",
+					"path": [
+						"api",
+						"Customer",
+						"CreateCustomer"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Customer",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiaXJ3YW4uYWRtaW4iLCJqdGkiOiI3NThmMWE4My0wNDJmLTQwZGEtOGQwNC03N2UwMWZjZjVhODYiLCJleHAiOjE2NDY4NDYyMzgsImlzcyI6Imh0dHA6Ly9sb2NhbGhvc3Q6NTAwMCIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6NzAzMiJ9.TX0QKUHRRQJvb1kX7jGfUbjtFIQbu3jGsO1yjpECn2g",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7032/api/Customer/GetCustomer",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7032",
+					"path": [
+						"api",
+						"Customer",
+						"GetCustomer"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Customer",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiaXJ3YW4ucmFobWF0IiwianRpIjoiZDkwY2E0M2UtMzBkZC00MTQ1LWEwOTQtOTgzZTk1NmZhYzYwIiwiZXhwIjoxNjQ2ODQ3MzM1LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjUwMDAiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OjcwMzIifQ.YZjoUzvU25ANF1KDkh0kSHBocn-aNk3trCumFLcdNAc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"irwan.rahmat\",\r\n  \"phone\": \"09999999999\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:7032/api/Customer/UpdateCustomer",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7032",
+					"path": [
+						"api",
+						"Customer",
+						"UpdateCustomer"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Customer",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1lIjoiaXJ3YW4ucmFobWF0IiwianRpIjoiZDkwY2E0M2UtMzBkZC00MTQ1LWEwOTQtOTgzZTk1NmZhYzYwIiwiZXhwIjoxNjQ2ODQ3MzM1LCJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjUwMDAiLCJhdWQiOiJodHRwOi8vbG9jYWxob3N0OjcwMzIifQ.YZjoUzvU25ANF1KDkh0kSHBocn-aNk3trCumFLcdNAc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7032/api/Customer/DeleteCustomer",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7032",
+					"path": [
+						"api",
+						"Customer",
+						"DeleteCustomer"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
